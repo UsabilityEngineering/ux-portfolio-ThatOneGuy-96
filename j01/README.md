@@ -1,8 +1,6 @@
 # Rocking with Dials
----
-## By Andrew Moskowitz on 3/10/2023
----
 
+## By Andrew Moskowitz on 3/10/2023
 
 I recently acquired a new guitar amplifier that I am very much enjoying now that I have mastered the controls. The process of learning all the buttons and dials was quite the ordeal though, as there are multiple words and symbols that up until now I did not know could be used to describe effects that manipulate the sound of a guitar. My overall goal of interacting with this new amp was to find my perfect sound and volume to resume my playing. 
 
