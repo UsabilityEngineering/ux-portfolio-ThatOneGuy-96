@@ -8,4 +8,4 @@ Neighborhood Deals
 
 ## UX Journal
 
-[Read about my experience with this one thing that I have yet to decide on!](j01/)
+[Read about my experience with my new guitar amplifier!](j01/)
