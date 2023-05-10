@@ -4,9 +4,8 @@
 
 I recently acquired a new guitar amplifier that I am very much enjoying now that I have mastered the controls. The process of learning all the buttons and dials was quite the ordeal though, as there are multiple words and symbols that up until now, I did not know could be used to describe effects that manipulate the sound of a guitar. My **overall goal** of interacting with this new amp was to find my perfect sound and volume to resume my playing. 
 
-Once I unboxed my new amp, I took a minute to look it over and started to make a **mental model** of how this piece of technology worked and how I was going to interact with it. I had used a number of amplifiers before but this was a different brand and had more buttons and knobs that I had ever previously seen along with words I had never seen before. test
+Once I unboxed my new amp, I took a minute to look it over and started to make a **mental model** of how this piece of technology worked and how I was going to interact with it. I had used a number of amplifiers before but this was a different brand and had more buttons and knobs that I had ever previously seen along with words I had never seen before.
 
-<img src="/j02/Face_Of_Amp.jpg" width="500" height="500">
 <img src="/j02/Face_Of_Amp.jpg" width="500" height="500">
 
 After building a sufficient mental model, the **first action** I took with the amp was to plug in the power cord between it and the wall socket. This was very intuitive since I assumed something this size required an outside power source and did not run on battery power. All of my previous amps had power cables as well. After this, I turned the power button on and connected my guitar to the amplifier via the guitar cable. All of this was going great but now it was time to figure out just what all these buttons and knobs were for. I decided to set all the knobs to the lowest setting and strum a note while slowly increasing the volume until I had a decent sound that was loud enough to hear and enjoy but quiet enough to keep my neighbors from calling the police for a noise complaint. 
