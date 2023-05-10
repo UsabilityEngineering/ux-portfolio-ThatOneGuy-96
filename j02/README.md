@@ -4,7 +4,7 @@
 
 I recently acquired a new guitar amplifier that I am very much enjoying now that I have mastered the controls. The process of learning all the buttons and dials was quite the ordeal though, as there are multiple words and symbols that up until now, I did not know could be used to describe effects that manipulate the sound of a guitar. My **overall goal** of interacting with this new amp was to find my perfect sound and volume to resume my playing. 
 
-Once I unboxed my new amp, I took a minute to look it over and started to make a **mental model** of how this piece of technology worked and how I was going to interact with it. I had used a number of amplifiers before but this was a different brand and had more buttons and knobs that I had ever previously seen along with words I had never seen before. 
+Once I unboxed my new amp, I took a minute to look it over and started to make a **mental model** of how this piece of technology worked and how I was going to interact with it. I had used a number of amplifiers before but this was a different brand and had more buttons and knobs that I had ever previously seen along with words I had never seen before. test
 
 <img src="/j02/Face_Of_Amp.jpg" width="500" height="500">
 <img src="/j02/Face_Of_Amp.jpg" width="500" height="500">
