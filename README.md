@@ -9,4 +9,5 @@ Neighborhood Deals
 ## UX Journal
 
 [Read about my experience with my new guitar amplifier!](j01/)
+
 [Read about my revised experience with my new guitar amplifier!](j02/)
